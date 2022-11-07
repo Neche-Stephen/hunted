@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hunted/static/css/main.e6428b50.css",
+    "main.css": "/hunted/static/css/main.656687af.css",
     "main.js": "/hunted/static/js/main.7b20d616.js",
     "static/js/787.c0cec7d9.chunk.js": "/hunted/static/js/787.c0cec7d9.chunk.js",
     "index.html": "/hunted/index.html",
-    "main.e6428b50.css.map": "/hunted/static/css/main.e6428b50.css.map",
+    "main.656687af.css.map": "/hunted/static/css/main.656687af.css.map",
     "main.7b20d616.js.map": "/hunted/static/js/main.7b20d616.js.map",
     "787.c0cec7d9.chunk.js.map": "/hunted/static/js/787.c0cec7d9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6428b50.css",
+    "static/css/main.656687af.css",
     "static/js/main.7b20d616.js"
   ]
 }
