@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/hunted/static/css/main.f4998f7e.css",
-    "main.js": "/hunted/static/js/main.31417960.js",
+    "main.css": "/hunted/static/css/main.2903c89a.css",
+    "main.js": "/hunted/static/js/main.fd12e566.js",
     "static/js/787.c0cec7d9.chunk.js": "/hunted/static/js/787.c0cec7d9.chunk.js",
     "static/media/michael-cummins-CZ6KeWtaluM-unsplash.jpg": "/hunted/static/media/michael-cummins-CZ6KeWtaluM-unsplash.8af968c011fda0238493.jpg",
     "static/media/hunt.jpg": "/hunted/static/media/hunt.6eabda8e12b079be0865.jpg",
     "static/media/address.png": "/hunted/static/media/address.c788afbe376e4e382ef5.png",
     "index.html": "/hunted/index.html",
     "static/media/home-icon.svg": "/hunted/static/media/home-icon.0a0b8c9e47cd811f1e32ac82faa26e6b.svg",
-    "main.f4998f7e.css.map": "/hunted/static/css/main.f4998f7e.css.map",
-    "main.31417960.js.map": "/hunted/static/js/main.31417960.js.map",
+    "main.2903c89a.css.map": "/hunted/static/css/main.2903c89a.css.map",
+    "main.fd12e566.js.map": "/hunted/static/js/main.fd12e566.js.map",
     "787.c0cec7d9.chunk.js.map": "/hunted/static/js/787.c0cec7d9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f4998f7e.css",
-    "static/js/main.31417960.js"
+    "static/css/main.2903c89a.css",
+    "static/js/main.fd12e566.js"
   ]
 }
