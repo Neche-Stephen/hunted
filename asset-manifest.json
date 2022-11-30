@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/hunted/static/css/main.3b43526d.css",
-    "main.js": "/hunted/static/js/main.840816fe.js",
+    "main.css": "/hunted/static/css/main.e3629b1c.css",
+    "main.js": "/hunted/static/js/main.45d48e75.js",
     "static/js/787.c0cec7d9.chunk.js": "/hunted/static/js/787.c0cec7d9.chunk.js",
     "static/media/michael-cummins-CZ6KeWtaluM-unsplash.jpg": "/hunted/static/media/michael-cummins-CZ6KeWtaluM-unsplash.8af968c011fda0238493.jpg",
+    "static/media/father-son-love.png": "/hunted/static/media/father-son-love.1d68566236ec20a92a0a.png",
     "static/media/hunt.jpg": "/hunted/static/media/hunt.6eabda8e12b079be0865.jpg",
     "static/media/address.png": "/hunted/static/media/address.c788afbe376e4e382ef5.png",
     "static/media/registration-complete.png": "/hunted/static/media/registration-complete.23f9072d9cc1b2f5fd11.png",
@@ -12,12 +13,12 @@
     "static/media/pending.png": "/hunted/static/media/pending.035a5499b7f967f0a452.png",
     "index.html": "/hunted/index.html",
     "static/media/home-icon.svg": "/hunted/static/media/home-icon.0a0b8c9e47cd811f1e32ac82faa26e6b.svg",
-    "main.3b43526d.css.map": "/hunted/static/css/main.3b43526d.css.map",
-    "main.840816fe.js.map": "/hunted/static/js/main.840816fe.js.map",
+    "main.e3629b1c.css.map": "/hunted/static/css/main.e3629b1c.css.map",
+    "main.45d48e75.js.map": "/hunted/static/js/main.45d48e75.js.map",
     "787.c0cec7d9.chunk.js.map": "/hunted/static/js/787.c0cec7d9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b43526d.css",
-    "static/js/main.840816fe.js"
+    "static/css/main.e3629b1c.css",
+    "static/js/main.45d48e75.js"
   ]
 }
